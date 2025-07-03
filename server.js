@@ -3,11 +3,12 @@ import authRoutes from './routes/authRoutes.js';
 import booksRoutes from './routes/booksRoutes.js';
 import logger from './middleware/logger.js';
 import { authMiddleware, SECRET } from './middleware/auth.js';
-
+import dotenv from 'dotenv';
 
 
 const app = express();
 const port = 3000;
+dotenv.config();
 
 //Middleware
 app.use(express.json());
