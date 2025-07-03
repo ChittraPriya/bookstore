@@ -1,0 +1,17 @@
+[
+  {
+    "id": "userId1",
+    "username": "priya",
+    "password": "password123"
+  },
+  {
+    "id": "userId2",
+    "username": "ajeeth",
+    "password": "password321"
+  },
+  {
+    "id": "1751498120919",
+    "email": "test@example.com",
+    "password": "$2b$10$O2aJwPFU4O4buFyiGkuP0OhA6GnltNSxThLQiuKK6FEBVMuN1Saki"
+  }
+]

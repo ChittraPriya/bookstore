@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e15c12fa-70a6-4b70-9f5d-38f8fda52ae1",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "publishedYear": 1960,
+    "userId": "user123"
+  },
+  {
+    "id": "f8b4b579-5c93-4c35-91dc-b9fdb38c18a6",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publishedYear": 1937,
+    "userId": "user123"
+  },
+  {
+    "id": "b6c3ae89-3ef7-4ed2-b1a9-84e173e93388",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Sci-Fi",
+    "publishedYear": 1965,
+    "userId": "user123"
+  }
+]
