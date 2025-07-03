@@ -13,5 +13,10 @@
     "id": "1751498120919",
     "email": "test@example.com",
     "password": "$2b$10$O2aJwPFU4O4buFyiGkuP0OhA6GnltNSxThLQiuKK6FEBVMuN1Saki"
+  },
+  {
+    "id": "1751503129498",
+    "email": "krcpriya@gmail.com",
+    "password": "$2b$10$SkA0N6BU6TQvxE18/VsNduNAeeBN2..R8SfXtCffVyOndZNEzkjri"
   }
 ]
